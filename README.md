@@ -15,8 +15,13 @@
 
 # :man_technologist: About Me :
 
-I'm Junior Machine Learning Engineer.
+I'm Junior :mali: Engineer
 
+- :man_student: I'm curruntly learning SQL, Git, Machine Learning, Python
+
+- :computer: I'm looking for a job
+
+- :evergreen_tree: In my free time I like to walk with my dog in the forest and watch sitcoms
 
 <!--
 **ArT669/ArT669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
