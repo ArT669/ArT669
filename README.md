@@ -17,7 +17,7 @@
 
 I'm Junior :mali: Engineer
 
-- :man_student: I'm curruntly learning SQL, Git, Machine Learning, Python
+- :man_student: I'm currently learning SQL, Git, Machine Learning, Python
 
 - :computer: I'm **looking** for a job
 
