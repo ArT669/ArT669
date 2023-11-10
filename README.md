@@ -19,7 +19,7 @@ I'm Junior :mali: Engineer
 
 - :man_student: I'm curruntly learning SQL, Git, Machine Learning, Python
 
-- :computer: I'm looking for a job
+- :computer: I'm **looking** for a job
 
 - :evergreen_tree: In my free time I like to walk with my dog in the forest and watch sitcoms
 
