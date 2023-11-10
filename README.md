@@ -19,6 +19,8 @@ I'm Junior Data Scientist
 
 - :man_student: I'm currently learning SQL, Git, Machine Learning, Python
 
+- :mortar_board: I have incomplete bachelor in mathematics (MMF NSU 3 courses)
+
 - :computer: I'm **looking** for a job
 
 - :evergreen_tree: In my free time I like to walk with my dog in the forest and watch sitcoms
