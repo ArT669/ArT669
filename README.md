@@ -15,7 +15,7 @@
 
 # :man_technologist: About Me :
 
-I'm Junior :mali: Engineer
+I'm Junior Data Scientist
 
 - :man_student: I'm currently learning SQL, Git, Machine Learning, Python
 
