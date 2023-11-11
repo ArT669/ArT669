@@ -17,7 +17,7 @@
 
 I'm Junior Data Scientist
 
-- :man_student: I'm currently learning SQL, Git, Machine Learning, Python
+- :seedling: I'm currently learning SQL, Git, Machine Learning, Python
 
 - :mortar_board: I have incomplete bachelor in mathematics (MMF NSU 3 courses)
 
@@ -25,7 +25,9 @@ I'm Junior Data Scientist
 
 - :evergreen_tree: In my free time I like to walk with my dog in the forest and watch sitcoms
 
-<img srs="ArT669/DSC05763_.JPG"/>
+- :zap: This is my dog !
+  
+  <img src="https://github.com/ArT669/ArT669/blob/79d6e9dc52f65940cb71ede097db42e808d10f69/DSC04763_.JPG" width="200"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArT669&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
