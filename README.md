@@ -1,10 +1,10 @@
 ![](/header.png)
 
 <div id="badges">
-  <a style="text-decoration: none; href="https://linkedin.com/in/artem-voronich-">
+  <a href="https://linkedin.com/in/artem-voronich-">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=%234384bf" alt = "LinkedIn Badge"/>
   </a>
-  <a style="text-decoration: none; href="https://t.me/Art_Vrnc">
+  <a href="https://t.me/Art_Vrnc">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
   </a>
 </div>
