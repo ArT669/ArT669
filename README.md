@@ -25,7 +25,7 @@ I'm Junior Data Scientist
 
 - :evergreen_tree: In my free time I like to walk with my dog in the forest and watch sitcoms
 
-![](https://drive.google.com/file/d/1H-boaxq_kPMveiYeyh8b_pIA7dHaLCEL/view?usp=sharing)
+<img srs="ArT669/DSC05763_.JPG"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArT669&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
