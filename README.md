@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=ArT669&style=flat-square&color=green" alt=""/>
 </div>
 
-# :man_technologist: About Me :
+# 👨‍💻 About Me :
 
 I'm Junior Data Scientist
 
