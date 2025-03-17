@@ -1,8 +1,6 @@
 ![](/header.png)
 
-<div id="badges">
-  <a href="https://linkedin.com/in/artem-voronich-">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=%234384bf" alt = "LinkedIn Badge"/>
+
   </a>
   <a href="https://t.me/Art_Vrnc">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
